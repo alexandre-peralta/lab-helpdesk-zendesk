@@ -1,7 +1,5 @@
 Laboratoire Helpdesk Zendesk et Active Directory 
 
-[Lire le PDF du laboratoire](Laboratoire%20Helpdesk%20Zendesk%20-%20Active%20Directory.pdf)
-
 Traitement de tickets de niveau 1 avec Zendesk et Active Directory, pour une entreprise fictive: Peralta IT Services, domaine peralta.local.
 
 Objectif
